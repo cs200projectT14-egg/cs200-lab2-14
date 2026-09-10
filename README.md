@@ -12,3 +12,4 @@ Members:
 - Yuseong Han
 
 This repository is practice for using Git, GitHub, and VS Code.
+Remote Update completed
